@@ -8,9 +8,3 @@ locals {
     prod = 2
   }
 }
-locals {
-  instances_count = {
-    stage = 2,
-    prod = 3
-  }
-}
